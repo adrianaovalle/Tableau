@@ -7,7 +7,8 @@ A series of dashboards are needed to understand the data and provide the ability
 ## Files Location
 
 The published version of Tableau is located at: https://public.tableau.com/profile/adriana3541#!/vizhome/NYC-CityBikeAnalysis/Story?publish=yes
-The Tableau original file is located at:
+
+Tableau original file is located at:
 https://drive.google.com/drive/folders/1MO9aP5UabuZ2ZUQyRNR73VGFLsyhtJB0
 
 
