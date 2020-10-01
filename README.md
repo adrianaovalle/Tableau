@@ -45,3 +45,4 @@ https://drive.google.com/drive/folders/1MO9aP5UabuZ2ZUQyRNR73VGFLsyhtJB0
 * Bikes that are ridden by fewer riders have median distances above 2 miles. 
 * An average recommendation for bike maintenance is at 1,250riden-miles. Lower graph shows bikes IDs in need of maintenance.
 
+![Figure1](Images/Overview.png)
